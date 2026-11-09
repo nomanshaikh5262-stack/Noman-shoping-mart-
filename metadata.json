@@ -1,0 +1,6 @@
+{
+  "name": "SUPER MART - Online Shopping",
+  "description": "Premium e-commerce platform offering top deals on mobiles, electronics, fashion, home essentials, and more with lightning-fast delivery and SuperAssured trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
